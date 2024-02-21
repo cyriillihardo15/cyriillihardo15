@@ -1,16 +1,28 @@
 ### Hi there 👋
+# Welcome to Lyhardo's GitHub Profile! 👋
 
-<!--
-**cyriillihardo15/cyriillihardo15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Cyriil Lihardo, a Software Engineer from Indonesia. I'm passionate about Web Development and Databases and my hobby is Fishing. I'm currently exploring Cybersecurity.
 
-Here are some ideas to get you started:
+## Skills
+- Programming Languages: [Python, PHP, SQL]
+- Technologies/Frameworks: [CodeIngiter3, Laravel, AngularJS]
+- System Administration: [Linux, Windows]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some projects I've worked on:
+- Attendance Web App
+- Port Scanner App
+- E-Commerce Web Design
+
+## Get in Touch
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/cyriil-lihardo-7080a4266/)
+- Instagram: [Your Twitter Handle](https://www.instagram.com/cyrilllyhardo/)
+- Website/Blog: [Your Website/Blog](https://cyriillihardo15.github.io/)
+
+Feel free to contact me if you have any questions, suggestions, or just want to fishing!
+
+## Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyriillihardo15&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyriillihardo15&layout=compact)](https://github.com/cyriillihardo15)
