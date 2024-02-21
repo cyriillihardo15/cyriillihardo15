@@ -16,9 +16,9 @@ Here are some projects I've worked on:
 - E-Commerce Web Design
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/cyriil-lihardo-7080a4266/)
-- Instagram: [Your Twitter Handle](https://www.instagram.com/cyrilllyhardo/)
-- Website/Blog: [Your Website/Blog](https://cyriillihardo15.github.io/)
+- LinkedIn: [Cyriil Lyhardo](https://www.linkedin.com/in/cyriil-lihardo-7080a4266/)
+- Instagram: [cyriillyhardo15](https://www.instagram.com/cyrilllyhardo/)
+- Website/Blog: [Lyhardo](https://cyriillihardo15.github.io/)
 
 Feel free to contact me if you have any questions, suggestions, or just want to fishing!
 
